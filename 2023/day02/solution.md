@@ -23,7 +23,7 @@
 
 ![ls -a](https://user-images.githubusercontent.com/76457594/210223013-9353abf0-159c-4797-a19f-3b78a8d4ef00.png)
 
-- ```ls *.sh``` -->
+- ```ls *.sh``` --> List the files and directories that ends with .sh extension
 
 
 ![ls * sh](https://user-images.githubusercontent.com/76457594/210223067-f5c3a5bf-09b4-4525-90e7-9ce61186ae2e.png)
